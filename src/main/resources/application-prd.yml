@@ -19,7 +19,7 @@ spring:
     url: jdbc:mariadb://localhost:40005/employee
     username: edu
     #password: caravan
-    password: ENC(hk5/B+52K9XaD+BqzpFaHQ==)
+    password: ENC(iTmH1EtxpUlQe3LlJe+jXKqQ/lHGU9Ei)
 #    hikari:
 #      pool-name: hikari-cp
 #      maximum-pool-size: 30
