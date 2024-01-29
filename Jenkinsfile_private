@@ -7,7 +7,7 @@ pipeline {
         dockerRepo = "edu/springboot_crud_security"
         // nexus
         //dockerRepo = "edu1"
-        dockerCredentials = 'nexus_ci'
+        dockerCredentials = 'edu'
         dockerImageVersioned = ""
         dockerImageLatest = ""
     }
